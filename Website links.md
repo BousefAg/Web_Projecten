@@ -1,6 +1,8 @@
 # Web_Projecten
 De links naar al mijn web projecten dat openbaar te zien zijn.
 
+Voor meer projecten, check mijn github.
+
 ## Grote projecten:
 
 ### Website voor Amsterdam Museum over roze flamingo jurk:
