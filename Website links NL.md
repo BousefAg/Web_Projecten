@@ -19,7 +19,7 @@ https://38204.hosts2.ma-cloud.nl/RoomUs/
 
 https://38204.hosts2.ma-cloud.nl/skil/NintendoWebshop/
 
-### Eerste keer met React werken:
+### Eerste project met React:
 
 https://38204.hosts2.ma-cloud.nl/Bo/EersteReactOpdracht/
 
