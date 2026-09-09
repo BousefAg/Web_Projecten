@@ -1,5 +1,7 @@
 # Web_Projecten
-De links naar al mijn web projecten dat openbaar te zien zijn.
+De links naar al mijn web projecten dat openbaar te zien zijn. 
+
+Ik raad aan om een computer of laptop te gebruiken voor de websites voor de beste ervaring.
 
 Voor meer projecten, bekijk mijn github.
 
