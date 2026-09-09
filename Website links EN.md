@@ -1,5 +1,5 @@
 # Web_Projects
-The links to all my public web projects.
+The links to all my public web projects. (I prefer checking them out on a computer/laptop)
 
 For more projects, check out my Github account.
 
