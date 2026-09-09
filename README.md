@@ -1,5 +1,7 @@
-Nederlands: Bekijk de website links bestand om al mijn gemaakte web opdrachten te bekijken
+## English
 
-English: Check out the website links file to find all my published websites
+[Click here to find all my published web projects](https://github.com/BousefAg/Web_Projecten/blob/main/Website%20links%20EN.md)
 
-https://github.com/BousefAg/Web_Projecten/blob/main/Website%20links.md
+## Nederlands
+
+[Klik hier om al mijn gepubliceerde web projecten te bekijken](https://github.com/BousefAg/Web_Projecten/blob/main/Website%20links%20NL.md)
