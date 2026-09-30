@@ -33,12 +33,3 @@ https://38204.hosts2.ma-cloud.nl/skil/opdrachten/Kalender/
 
 ### Weebsite:
 https://38204.hosts2.ma-cloud.nl/skil/opdrachten/Weebsite/
-
-### Widgets:
-https://38204.hosts2.ma-cloud.nl/skil/opdracht_4/
-
-### Stopwatch:
-https://38204.hosts2.ma-cloud.nl/skil/opdracht_2/
-
-### Landingspage:
-https://38204.hosts2.ma-cloud.nl/skil/landingspage/
