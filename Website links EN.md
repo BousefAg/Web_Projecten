@@ -30,6 +30,3 @@ https://38204.hosts2.ma-cloud.nl/skil/opdracht_3/
 
 ### Calender:
 https://38204.hosts2.ma-cloud.nl/skil/opdrachten/Kalender/
-
-### Weebsite:
-https://38204.hosts2.ma-cloud.nl/skil/opdrachten/Weebsite/
